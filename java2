@@ -5,6 +5,12 @@ public class AddTwoNumbers {
       int num1 =10 , num2 = 87, total;
       total = num1 + num2;
 
+<<<<<<< HEAD
       System.out.println(total of these numbers: "+sum);
+=======
+      System.out.println("Sum of these numbers: "+sum);
+      Sytem.out.println(" Sum values are corrected");
+      
+>>>>>>> 4e25dad5ad915275dfb21a43a80a576c76a147f0
    }
 }
